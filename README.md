@@ -1,6 +1,6 @@
 # win 10 / 11 KMS activation
 
-##keys
+### keys
 
 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
@@ -25,7 +25,7 @@ Windows 10 Core: 33QT6-RCNYF-DXB4F-DGP7B-7MHX9
 Windows 10 S (Lean): NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
 Windows 10 Pro build 10240: VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
-##admin comand to execute
+### comand to execute (as admin)
 
 slmgr /ipk [key]
 slmgr /skms kms8.msguides.com
